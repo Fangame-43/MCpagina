@@ -441,7 +441,7 @@ bottom: 1000px;
 #anclagaleria{
 
 position: absolute;
-top: 4105px;
+top: 4090px;
     
 
 }
@@ -495,14 +495,15 @@ height: 250px;
 .video-section{
 
 position: relative;
-left: 480px;
-bottom: 1200px;
+right: 1900px;
+top: 150px;
 
 
 }
 
 .video-player{
 
+position: relative;
 width: 50%;
 height: 600px;
 
@@ -513,8 +514,8 @@ height: 600px;
 .botondegaleria{
 
 position: relative;
-right: 1220px;
-top: 880px;
+right: 1270px;
+top: 800px;
 width: 600px;
 height: 200px;
 color: rgb(26, 230, 26);;
@@ -539,14 +540,14 @@ font-weight: bold;
 font-size: 50px;
 text-decoration: underline rgb(50, 175, 77);
 left: 750px;
-bottom: 600px;
+bottom: 400px;
 
 }
 
 #anclamapaycomentarios{
 
 position: relative;
-bottom: 790px;
+bottom: 630px;
 
 }
 
@@ -555,7 +556,7 @@ bottom: 790px;
 
 position: relative;
 left: 400px;
-bottom: 600px;
+bottom: 400px;
 width: 50%; 
 height: 450px;
 
@@ -565,14 +566,14 @@ height: 450px;
 
 position: relative;
 left: 500px;
-bottom: 480px;
+bottom: 280px;
 }
 
 .loqueestaalladodelform{
 
 position: relative;
 left: 950px;
-bottom: 900px;
+bottom: 700px;
 width: 700px;
 padding: 20px;
 line-height: 1.8;
